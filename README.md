@@ -7,9 +7,9 @@ This repo is part of the [App of Apps overview and tutorial on Medium](https://m
 This type of repo would typically be created and managed by an SRE team.
 
 Repos in this tutorial:
-* [argocd-app-of-apps-parent](https://github.com/d0-labs/argocd-app-of-apps-parent)
-* [argocd-app-of-apps-child-2048-game](https://github.com/d0-labs/argocd-app-of-apps-child-2048-game)
-* [argocd-app-of-apps-child-guestbook](https://github.com/d0-labs/argocd-app-of-apps-child-guestbook)
+* [argocd-app-of-apps-parent](https://github.com/yzhang99999/argocd-app-of-apps-parent)
+* [argocd-app-of-apps-child-2048-game](https://github.com/yzhang99999/argocd-app-of-apps-child-2048-game)
+* [argocd-app-of-apps-child-guestbook](https://github.com/yzhang99999/argocd-app-of-apps-child-guestbook)
 
 Check out the full [App of Apps overview and tutorial on Medium]().
 ## Pre-Requisites
